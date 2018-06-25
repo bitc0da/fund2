@@ -24,7 +24,7 @@ THE SOFTWARE.-->
 
 
 <style type="text/css">
-body{background:linear-gradient(127deg,#423935,#5f6468,#460000,#845420;margin:0px;padding:0px;background-color:#fff;margin:0;padding:0;background-size:1200% 1200%;color:#fff;font-family:'Calibri'}
+body{margin:0px;padding:0px;background-color:#fff;margin:0;padding:0;background-size:1200% 1200%;color:#fff;font-family:'Calibri'}
 
 .wrapper{
 	
@@ -381,11 +381,11 @@ $('#socialmedia').load("front_social.txt");
 
 <!-- color customization -->
 <script>
-//	$.get("front_bgcolor.txt", function(bgcolor) {
-//	var backgroundcolor = bgcolor;
-//    window.value2 = (backgroundcolor);	
-//	$("body").css("background-color", window.value2);
-//	});
+	$.get("front_bgcolor.txt", function(bgcolor) {
+	var backgroundcolor = bgcolor;
+    window.value2 = (backgroundcolor);	
+	$("body").css("background-color", window.value2);
+	});
 	
 	$.get("front_bannerbg.txt", function(bannercolor) {
 	var bannerbg = bannercolor;

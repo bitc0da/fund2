@@ -1,1 +1,1 @@
-linear-gradient(to right, #dcf2f9, #ffffff, #dcf2f9)
+linear-gradient(to right, #171f22, #544e4b, #171f22)

@@ -2,17 +2,21 @@
   <source src="https://raw.githubusercontent.com/bitc0da/fund/master/rebitcoincash.mp3" type="audio/mpeg">
   <p>If you can read this, your browser does not support the audio element.</p>
 </audio>
-<br>
+<b>EP Intro / Example / Preview Audio Clip</b>
+<br><br>
+<h2>Electronic Music EP</h2>
+BITC0DA is a music project inspired by Bitcoin Cash attempting to pull together several genres: EDM, RetroWave, Psychedelic Trance, Vocal Trance, Electro House, Electronic Rock, Glitch, and Industrial while weaving in some vocals that relate to Bitcoin Cash. The example track posted above gives a feeling for the intro or style of the initial track. In order to complete the EP, a software beyond initial production software will be required: 1. <a href="https://www.vocaloid.com/en/products/show/v4l_cd_cs_english_sp_en">Vocaloid4</a> English Version - JPY 24,000. Depending on how well the fund goes, I can then purchase some mastering software or help with professional mastering to produce a high quality finished EP.
 
-<h2>Project Headline Info </h2>
-BITC0DA is a music project inspired by Bitcoin Cash, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+<Br><Br>
+<h3>How I will use the funds you donate</h3>
+- Purchasing the remaining music software for the EP.<br>
+- Working on 5 tracks to be featured in the EP titled "Bitcoin Cash".<br>
+- Publishing updates as each track is completed.<br>
+- Mastering and finishing tracks.<br>
+- Depending on funding goals: Extra mastering.<br>
+- Depending on funding goals: Finishing more tracks and possible turning it into an album.<br>
+- Depending on funding goals: Creating artwork and raising awareness for release.
+<Br><Br>
+<h3>Deadline and Updates</h3>
+The BCH EP Music Project by Bitcoda is slated for completed in late 2018. For updates please look back to this page or try to follow me on yours.org or memo.cash (TBD). Your donation will help complete the EP and each donation no matter how small will help the project continue each week. Thank you for your support!
 
-
-<h3>Project Subheader</h3>
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

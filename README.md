@@ -1,0 +1,2 @@
+# fund
+Bitcoda Artist Fundraiser
